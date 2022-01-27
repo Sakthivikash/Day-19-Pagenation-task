@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(253, 253, 253);
+}
+
+.pagination{
+    margin-top: 50px;
+}
+.pagination ul{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    padding: 8px;
+    background-color: rgb(174, 230, 247);
+    border-radius: 50px;
+    justify-content: center;
+    list-style: none;
+}
+h1{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 20px;
+}
+.color{
+    background-color: rgb(224, 223, 223);
+}
